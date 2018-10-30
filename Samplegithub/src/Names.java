@@ -7,6 +7,7 @@ public class Names {
   String[] names = {"usha","abi","karthik","vignesh"};
   for(String name:names)
 	  System.out.println("hi "+name);
+  System.out.println("hi ");
 
 	}
 
